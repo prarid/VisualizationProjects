@@ -23,6 +23,6 @@ An exploratory analysis of sample usage data from Nov 2019 to June 2022 showed:
     * A majority of the Students starting with AStep continue with InStep (83%)
 
 
-![AverageCourse.png](TorranceLearning/AverageCourse.png)
-![CoursePopularity.png](TorranceLearning/CoursePopularity.png)
-![InitialandContinuing.png](TorranceLearning/InitialandContinuing.png)
+![AverageCourse.png](AverageCourse.png)
+![CoursePopularity.png](CoursePopularity.png)
+![InitialandContinuing.png](InitialandContinuing.png)
