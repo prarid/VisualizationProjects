@@ -15,9 +15,9 @@ The client wanted to understand the learning patterns of these users and also if
 It is clear that amongst the ancillary learning programs that the platform is hoping to grow, Program A appears to be the standout and is popular amongst both students and prodessionals alike. In order to grow participation in the other Ancillary Programs, the recommended approach would be to conduct surveys and solicit feedback from users on what they like about Program A, e.g., topic covered, presentation, instruction style. All other Ancillary Programs would need to be reviewed against this feedback.
 
 
-![InitialNext.png](InitialNext.png)
+![Initial_Next_Course.png](Initial_Next_Course.png)
 
 <p align="center">
-  <img src= "Program_Popularity.png"
+  <img src= "ProgPopularity.png"
 </p>
 
