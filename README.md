@@ -18,6 +18,6 @@ It is clear that amongst the ancillary learning programs that the platform is ho
 ![Initial_Next_Course.png](Initial_Next_Course.png)
 
 <p align="center">
-  <img src= "ProgPopularity.png"
+  <img src= "ProgPopularity.png" width="50%" height="50%">
 </p>
 
